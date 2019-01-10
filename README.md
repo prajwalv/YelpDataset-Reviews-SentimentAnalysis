@@ -1,4 +1,4 @@
-# YelpDataset-Reviews-SentimentAnalysi
+# YelpDataset-Reviews-SentimentAnalysis
 Semester project for Data Mining(CMPE255). In this project, I have performed sentiment analysis on Yelp, Reviews dataset.
 All of our dataset samples can be found under dataset folder.
 
