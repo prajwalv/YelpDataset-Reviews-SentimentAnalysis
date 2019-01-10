@@ -6,7 +6,7 @@ All of our dataset samples can be found under dataset folder.
 We had tar file as our dataset. This script will extract the tar files.
 To run this script we have to change the path of the tar file.
 
-##json_to_csv_convertor.py
+## json_to_csv_convertor.py
 When we extracted the files, we had json files. We used this script to convert the jsom to csv files.
 To run this script we have to pass the path of the json file as a parameter.
 
